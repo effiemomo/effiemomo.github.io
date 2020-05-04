@@ -4,7 +4,7 @@ This is my freakin website...
 
 ### Markdown
 
-I like really websites and ![G Raffs](https://raw.githubusercontent.com/effiemomo/master/images/ef.jpg)
+I like really websites and ![G Raffs](http://raw.githubusercontent.com/effiemomo/effiemomo.github.io/master/images/ef.jpg)
 
 ### Jekyll Themes
 
